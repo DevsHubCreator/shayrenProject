@@ -3,7 +3,7 @@ local betaTesters = {
     "MODDEDMEMED",
     "parkerpro42xd",
     "ScoutOverAWP",
-    "Yasanda2008",
+    "DapperPyrus",
     "CBRO_BOTAI",
     "AndrewCalculate"
 }
