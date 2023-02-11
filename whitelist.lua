@@ -6,3 +6,4 @@ local betaTesters = {
     "Yasanda2008",
     "CBRO_BOTAI"
 }
+return betaTesters
