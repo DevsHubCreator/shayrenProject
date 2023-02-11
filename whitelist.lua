@@ -4,6 +4,7 @@ local betaTesters = {
     "parkerpro42xd",
     "ScoutOverAWP",
     "Yasanda2008",
-    "CBRO_BOTAI"
+    "CBRO_BOTAI",
+    "AndrewCalculate"
 }
 return betaTesters
