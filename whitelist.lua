@@ -6,4 +6,5 @@ local betaTesters = {
     "Yasanda2008",
     "CBRO_BOTAI"
 }
+print('1')
 return betaTesters
